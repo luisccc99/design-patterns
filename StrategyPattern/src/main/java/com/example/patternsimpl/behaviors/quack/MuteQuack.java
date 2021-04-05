@@ -1,9 +1,9 @@
-package com.example.patternsimpl.behaviors;
+package com.example.patternsimpl.behaviors.quack;
 
 public class MuteQuack implements QuackBehavior {
 
     @Override
     public void quack() {
-        // silence
+        System.out.println("awkward silence");
     }
 }

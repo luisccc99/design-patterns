@@ -1,8 +1,8 @@
-package com.example.patternsimpl.behaviors;
+package com.example.patternsimpl.behaviors.fly;
 
 public class FlyWithWings implements FlyBehavior {
     @Override
     public void fly() {
-        // fly
+        System.out.println("Fly with wings :o");
     }
 }

@@ -1,9 +1,9 @@
-package com.example.patternsimpl.behaviors;
+package com.example.patternsimpl.behaviors.fly;
 
 public class FlyRocketPowered implements FlyBehavior {
 
     @Override
     public void fly() {
-        //fly with rockets
+        System.out.println("fuuuuuush!!!!");
     }
 }
