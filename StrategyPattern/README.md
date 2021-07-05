@@ -1,7 +1,7 @@
 # Strategy Pattern
-**Type:** Behevioral  
+**Type:** Behavioral  
 **Definition:** TODO: write definition down
 
-# Problems That Solves
+## Problems That Solves
 
-# Design Principles
+## Design Principles
