@@ -1,3 +1,7 @@
+package beverages;
+
+import beverages.Beverage;
+
 public class DarkRoast extends Beverage {
 
     public DarkRoast() {

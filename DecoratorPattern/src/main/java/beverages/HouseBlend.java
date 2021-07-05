@@ -1,3 +1,7 @@
+package beverages;
+
+import beverages.Beverage;
+
 public class HouseBlend extends Beverage {
 
     public HouseBlend() {
