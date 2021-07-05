@@ -1,7 +1,7 @@
 # Observer Pattern
-**Type:** Behavioral
+**Type:** Behavioral  
 **Definition:** TODO: write down the definition
 
-# Problem That Solves
+## Problem That Solves
 
-# Design Principles
+## Design Principles
