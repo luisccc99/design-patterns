@@ -6,6 +6,11 @@ import weather_o_rama.Subject;
 import java.util.ArrayList;
 import java.util.List;
 
+/**
+ * WeatherData class is the subject,
+ * it lets its observers to retrieve what they need
+ * with getters and setters
+ */
 public class WeatherData implements Subject {
     private List<Observer> observers;
     private float temperature;
@@ -13,7 +18,7 @@ public class WeatherData implements Subject {
     private float pressure;
 
     public WeatherData() {
-        this.observers = new ArrayList<Observer>();
+        this.observers = new ArrayList<>();
     }
 
     @Override
