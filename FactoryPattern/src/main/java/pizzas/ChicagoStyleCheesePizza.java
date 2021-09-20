@@ -1,6 +1,7 @@
-public class CheesePizza extends Pizza {
+package pizzas;
 
-    public CheesePizza(String type) {
+public class ChicagoStyleCheesePizza extends Pizza {
+    public ChicagoStyleCheesePizza(String type) {
         super(type);
     }
 
