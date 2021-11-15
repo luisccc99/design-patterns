@@ -24,6 +24,7 @@ public abstract class PizzaStore {
         return pizza;
     }
 
+    // We can use Enums to make factory type-safe
     protected abstract Pizza createPizza(String type);
 
 }

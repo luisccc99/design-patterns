@@ -11,10 +11,11 @@ Turs out in the mid 90s, a group of four people: Erich Gamma, Richard Helm, Raph
 - shared vocabulary
 - solution to common problems
 
-## What type of patterns exist?
-- Creational
-- Structural
-- Behavioral
+## What type of patterns exist?  
+From [Classification of patterns](https://refactoring.guru/design-patterns/classification).  
+- Creational. Provide object creation mechanisms that increase flexibility and reuse of existing code.  
+- Structural. Explain how to assemble objects and classes into larger structures, while keeping the structures flexible and efficient.  
+- Behavioral. Take care of effective communication and the assignment of responsabilities between objects.
 
 
 ## Note
