@@ -1,9 +1,7 @@
-package factories;
-
-import pizzas.CheesePizza;
-import pizzas.PepperoniPizza;
+import pizzas.basic.CheesePizza;
+import pizzas.basic.PepperoniPizza;
 import pizzas.Pizza;
-import pizzas.VeggiePizza;
+import pizzas.basic.VeggiePizza;
 
 public class SimplePizzaFactory {
 

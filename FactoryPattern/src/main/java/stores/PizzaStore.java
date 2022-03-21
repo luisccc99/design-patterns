@@ -1,6 +1,6 @@
 package stores;
 
-import factories.SimplePizzaFactory;
+import SimplePizzaFactory;
 import pizzas.Pizza;
 
 public abstract class PizzaStore {
